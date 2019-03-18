@@ -40,7 +40,7 @@ while not url.endswith('#') and i<=4:
     imageFile = open(os.path.join('xkcd', fileName), 'wb')
     for chunk in res.iter_content(100000):
         imageFile.write(chunk)
-        imageFile.close()
+    imageFile.close()
 
     #create an html file with images and title
     comicTitle = comicElem[0].get('title')

@@ -1,6 +1,7 @@
+import os
 # Get cbse results for a roll number
 from selenium import webdriver
-browser = webdriver.Chrome(executable_path="C:\public_html\Python\webdriver\chromedriver.exe")
+browser = webdriver.Chrome(executable_path=os.getcwd()+"\webdriver\chromedriver.exe")
 browser.get('http://resultsarchives.nic.in/cbseresults/cbseresults2013/class12/cbse122013.htm')
 
 roll = 9199260
