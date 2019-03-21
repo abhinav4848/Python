@@ -24,7 +24,7 @@ emailRegex = re.compile(r'''
 ''', re.VERBOSE)
 
 # get the text off the clipboard
-#text = pyperclip.paste()
+# text = pyperclip.paste()
 text = '''No Starch Press, Inc.
 245 8th Street
 San Francisco, CA 94103 USA
