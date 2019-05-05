@@ -1,6 +1,6 @@
 #! python3
 # http://automatetheboringstuff.com/chapter11/
-# lucky.py - Opens several Google search results.
+# qikgoogle.py - Opens several Google search results.
 
 import requests, sys, webbrowser, bs4
 
