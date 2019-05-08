@@ -1,0 +1,1 @@
+{"non-ascii": "\u0142", "ascii": "\u0144", "movie": {"name": "Minority Report", "actor": {"names": ["Tom Cruise", "Colin Farrell"]}}}
