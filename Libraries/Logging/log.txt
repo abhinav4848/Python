@@ -1,0 +1,4 @@
+INFO 2019-05-09 19:50:32,493 - Our First Message
+INFO 2019-05-09 19:50:42,761 - Our First Message
+INFO 2019-05-09 19:51:04,544 - Our Second Message
+INFO 2019-05-09 19:51:17,657 - Our Second Message
