@@ -21,8 +21,8 @@ afprice.main('https://www.amazon.in/dp/B07M9FDGJQ/', True)
 import bs4, requests
 # Python 3 uses absolute imports. Any unqualified name is imported as a top-level module.
 # https://stackoverflow.com/a/38564405/2365231
-import afprice.amazon
-import afprice.flipkart
+import afprice._amazon
+import afprice._flipkart
 
 def main(url, returning):
     # https://www.amazon.in/dp/B07M9FDGJQ/
@@ -47,9 +47,9 @@ def allocator(url):
     #decide if amazon or flipkart
     destination = url.split('/')[2].split('.')[1]
     if destination == 'amazon':
-        price = amazon.getAmazonPrice(soup)
+        price = _amazon.getAmazonPrice(soup)
     elif destination == 'flipkart':
-        price = flipkart.getFlipkartPrice(soup)
+        price = _flipkart.getFlipkartPrice(soup)
     return price
 
 if __name__ == '__main__':
