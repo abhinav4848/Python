@@ -12,5 +12,5 @@ Flask
 Django
 SQL
 
-<script src="https://gist.github.com/abhinav4848/f407830ea7ab368b6b39294f788be448.js"></script>
+Read up on [Vscode, Python, gitignore](https://gist.github.com/abhinav4848/f407830ea7ab368b6b39294f788be448)
 
