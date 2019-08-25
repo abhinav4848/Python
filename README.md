@@ -12,6 +12,6 @@ Flask
 Django
 SQL
 
-Read up on [Vscode, Python, gitignore](https://gist.github.com/abhinav4848/f407830ea7ab368b6b39294f788be448)
+Read up on [Vscode, Python, gitignore](https://github.com/abhinav4848/Programming-Notes/blob/personal/topics/venv.md)
 
 [VSCODE Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) - Open command palette `Ctrl+Shift+P` and type keyboard...
