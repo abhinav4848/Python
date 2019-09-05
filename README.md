@@ -1,11 +1,6 @@
 # Python
 
-Learning python from any source I can find
-
-Next:
-First order functions
-Closures
-Decorators
+Learning python from any source I can find.
 
 How to create a scrapy project in virtual env
 Flask
