@@ -1,6 +1,6 @@
 # Python
 
-Learning python from any source i can find
+Learning python from any source I can find
 
 Next:
 First order functions
@@ -12,6 +12,6 @@ Flask
 Django
 SQL
 
-Read up on [Vscode, Python, gitignore](https://github.com/abhinav4848/Programming-Notes/blob/personal/topics/venv.md)
+Read up on [Vscode, Python, gitignore](https://github.com/abhinav4848/Programming-Notes/blob/master/topics/venv.md)
 
 [VSCODE Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) - Open command palette `Ctrl+Shift+P` and type keyboard...
